@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-demo",
+  "name": "demo-bootstrap",
   "version": "1.0.0",
-  "description": "demo bootstrap, CSS, HTML",
+  "description": "demo-bootstrap, html, css",
   "main": "index.html",
   "scripts": {
     "start": "serve",
